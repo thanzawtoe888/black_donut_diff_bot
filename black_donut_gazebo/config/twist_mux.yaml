@@ -13,7 +13,3 @@ twist_mux:
         topic: cmd_vel_joy # behavior tree
         timeout: 0.5
         priority: 100
-      keyboard:
-        topic   : key_cmd_vel
-        timeout : 0.5
-        priority: 15
